@@ -1,7 +1,0 @@
-filename,file_size,file_attributes,region_count,region_id,region_shape_attributes,region_attributes
-1.jpg,996687,"{}",3,0,"{""name"":""polygon"",""all_points_x"":[412,501,505,419],""all_points_y"":[506,511,290,280]}","{""names"":""level1""}"
-1.jpg,996687,"{}",3,1,"{""name"":""polygon"",""all_points_x"":[251,326,316,255],""all_points_y"":[389,381,167,160]}","{""names"":""level1""}"
-1.jpg,996687,"{}",3,2,"{""name"":""polygon"",""all_points_x"":[139,201,199,152],""all_points_y"":[319,317,161,145]}","{""names"":""level1""}"
-2.jpg,1181552,"{}",1,0,"{""name"":""polygon"",""all_points_x"":[370,458,479,381],""all_points_y"":[432,432,111,110]}","{""names"":""level4""}"
-3.jpg,1054454,"{}",2,0,"{""name"":""polygon"",""all_points_x"":[228,333,356,244],""all_points_y"":[457,458,283,275]}","{""names"":""level2""}"
-3.jpg,1054454,"{}",2,1,"{""name"":""polygon"",""all_points_x"":[537,621,637,519],""all_points_y"":[410,410,183,182]}","{""names"":""level3""}"
